@@ -137,4 +137,25 @@ p {
     text-align: center;
     margin: 0 20px;
   }
+
+  .text-start {
+    text-align: center !important;
+  }
+
+  .col-sm-4 {
+    margin-bottom: 30px;
+  }
+
+  .container {
+    margin-bottom: 20px;
+  }
+
+  .contact {
+    margin-bottom: 20px;
+    margin-top: 10px !important;
+  }
+
+  .mobile-view {
+    font-size: 18px;
+  }
 }
